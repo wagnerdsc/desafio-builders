@@ -1,6 +1,9 @@
 # desafio-builders
 # Dashboard de Inteligência de Dados - Desafio de Vaga para Analista de Dados Sênior
 
+## Link para o Dashboard
+https://lookerstudio.google.com/reporting/03d267b5-9505-4813-b94d-57107879a1be
+
 Este é um projeto de criação de um dashboard para análise de dados de multas de trânsito e dados relacionados à Covid-19. O objetivo é desenvolver visualizações e análises relevantes para auxiliar na tomada de decisões e compreensão desses dados. O dashboard será criado utilizando a ferramenta LookerStudio para visualização de dados e foi desenvolvido um processo de ETL utilizando Python. Foram gerados 8 arquivos CSV durante o processo de ETL, sendo 6 dimensões e 2 fatos.
 
 ## Dados
